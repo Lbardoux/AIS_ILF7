@@ -1,0 +1,6 @@
+<basicBulletConfiguration>
+	<speed  value="25"/>
+	<power  value="1" />
+	<radius value="8" />
+	<depth  value="1" />
+</basicBulletConfiguration>

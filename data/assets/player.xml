@@ -1,0 +1,9 @@
+<playerConfiguration>
+	<speed value="6" />                  <!-- 4   by default -->
+	<cooldown value="3" />               <!-- 5   by default -->
+	<invulnerabilityFrames value="60" /> <!-- 60  by default -->
+	<weaponDurationFrames value="300" /> <!-- 300 by default -->
+	<boundingCircleRadius value="20" />  <!-- 20  by default -->
+	<maxHealth value="2" />              <!-- 2   by default -->
+	<depth value="0" />
+</playerConfiguration>

@@ -1,0 +1,8 @@
+<gameConfiguration>
+    <fps value="30"/>
+    <fullscreen value="1"/>
+    <screenSizes>
+        <width value="640"/>
+        <height value="480"/>
+    </screenSizes>
+</gameConfiguration>

@@ -1,0 +1,23 @@
+<scores>
+	<campaign>
+		<first score="" name="" />
+		<second score="" name="" />
+		<third score="" name="" />
+		<fourth score="" name="" />
+		<fifth score="" name="" />
+	</campaign>
+	<survival>
+		<first score="" name="" />
+		<second score="" name="" />
+		<third score="" name="" />
+		<fourth score="" name="" />
+		<fifth score="" name="" />
+	</survival>
+	<asteroid>
+		<first score="" name="" />
+		<second score="" name="" />
+		<third score="" name="" />
+		<fourth score="" name="" />
+		<fifth score="" name="" />
+	</asteroid>
+</scores>

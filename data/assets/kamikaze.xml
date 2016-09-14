@@ -1,0 +1,6 @@
+<KamikazeConfiguration>
+	<depth value="1" />
+	<canShoot value="0" />
+	<speed value="5" />
+	<boundingCircleRadius value="8" />
+</KamikazeConfiguration>

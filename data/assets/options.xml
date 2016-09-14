@@ -1,0 +1,14 @@
+<options>
+	<sounds value="1" />
+	<musics value="1" />
+	<difficulty value="easy" />
+	<inputs default="1">
+		<rotateLeft input="97" />
+		<rotateRight input="122" />
+		<goLeft input="276" />
+		<goRight input="275" />
+		<goUp input="273" />
+		<goDown input="274" />
+		<pause input="32" />
+	</inputs>
+</options>
